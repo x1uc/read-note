@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "docType": "github-web-annotator-metadata",
+  "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
+  "updatedAt": "2026-05-05T15:32:41.695Z",
+  "annotations": [
+    {
+      "client": {
+        "name": "GitHub Web Annotator",
+        "version": "0.1.0"
+      },
+      "color": "yellow",
+      "createdAt": "2026-05-05T15:32:38.046Z",
+      "id": "mosses66-636cf660ff2712cb",
+      "note": "",
+      "quote": "OpenAI was seeded by an offshoot of Y Combinator called YC Research in 2016 — when Altman was running YC. In December 2023, the well-known AI expert (and AI-hype skeptic) Gary Marcus wrote the following, in a piece on Altman’s trustworthiness in the wake of the OpenAI board saga that saw Altman fired, re-hired, and the board purged in the course of a tumultuous week:",
+      "schemaVersion": 1,
+      "selector": {
+        "end": 2372,
+        "exact": "OpenAI was seeded by an offshoot of Y Combinator called YC Research in 2016 — when Altman was running YC. In December 2023, the well-known AI expert (and AI-hype skeptic) Gary Marcus wrote the following, in a piece on Altman’s trustworthiness in the wake of the OpenAI board saga that saw Altman fired, re-hired, and the board purged in the course of a tumultuous week:",
+        "prefix": ", given OpenAI’s sky-high valuation, isn’t that stake worth billions of dollars?",
+        "start": 2003,
+        "suffix": "After poking around, I found out that “I have no equity in OpenAI”\nwas only half",
+        "type": "TextQuoteSelector"
+      },
+      "tags": [],
+      "title": "Daring Fireball: Y Combinator’s Stake in OpenAI",
+      "updatedAt": "2026-05-05T15:32:38.047Z",
+      "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai"
+    }
+  ]
+}
