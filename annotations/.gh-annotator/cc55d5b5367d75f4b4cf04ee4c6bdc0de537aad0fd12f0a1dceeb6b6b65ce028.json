@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "docType": "github-web-annotator-metadata",
+  "url": "https://daringfireball.net/2026/03/the_macbook_neo",
+  "updatedAt": "2026-05-05T15:35:45.244Z",
+  "annotations": [
+    {
+      "client": {
+        "name": "GitHub Web Annotator",
+        "version": "0.1.0"
+      },
+      "color": "yellow",
+      "createdAt": "2026-05-05T15:35:43.088Z",
+      "id": "mossiqy8-f29947cf96025424",
+      "note": "",
+      "quote": "It’s never been a good idea to evaluate the performance of Apple’s computers by tech specs alone. That’s exemplified by the experience of using a Neo. 8 GB of RAM is not a lot. And I love me my RAM — my personal workstation remains a 2021 M1 Max MacBook Pro with 64 GB RAM (the most available at the time). But just using the Neo, without any consideration that it’s memory limited, I haven’t noticed a single hitch. I’m not quitting apps I otherwise wouldn’t quit, or closing Safari tabs I wouldn’t otherwise close. I’m just working — with an even dozen apps open as I type this sentence — and everything feels snappy.",
+      "schemaVersion": 1,
+      "selector": {
+        "end": 4211,
+        "exact": "It’s never been a good idea to evaluate the performance of Apple’s computers by tech specs alone. That’s exemplified by the experience of using a Neo. 8 GB of RAM is not a lot. And I love me my RAM — my personal workstation remains a 2021 M1 Max MacBook Pro with 64 GB RAM (the most available at the time). But just using the Neo, without any consideration that it’s memory limited, I haven’t noticed a single hitch. I’m not quitting apps I otherwise wouldn’t quit, or closing Safari tabs I wouldn’t otherwise close. I’m just working — with an even dozen apps open as I type this sentence — and everything feels snappy.",
+        "prefix": "ints about running MacOS 26 Tahoe (which the Neo requires) as I thought I would.",
+        "start": 3592,
+        "suffix": "Now, could I run up a few hundred open Safari tabs on this machine, like I do on",
+        "type": "TextQuoteSelector"
+      },
+      "tags": [],
+      "title": "Daring Fireball: The MacBook Neo",
+      "updatedAt": "2026-05-05T15:35:43.090Z",
+      "url": "https://daringfireball.net/2026/03/the_macbook_neo"
+    }
+  ]
+}
