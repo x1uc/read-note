@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "docType": "github-web-annotator-metadata",
+  "url": "https://daringfireball.net/2026/03/the_macbook_neo",
+  "updatedAt": "2026-05-05T15:33:31.458Z",
+  "annotations": [
+    {
+      "client": {
+        "name": "GitHub Web Annotator",
+        "version": "0.1.0"
+      },
+      "color": "yellow",
+      "createdAt": "2026-05-05T15:33:29.768Z",
+      "id": "mossfw2w-a49aad2af8bb6203",
+      "note": "",
+      "quote": "Just over a decade ago, reviewing the then-new iPhones 6S, I could tell which way the silicon wind was blowing. Year-over-year, the A9 CPU in the iPhone 6S was 1.6× faster than the A8 in the iPhone 6. Impressive. But what really struck me was comparing the 6S’s GeekBench scores to MacBooks. The A9, in 2015, benchmarked comparably to a two-year-old MacBook Air from 2013. More impressively, it outperformed the then-new no-adjective 12-inch MacBook in single-core performance (by a factor of roughly 1.1×) and was only 3 percent slower in multi-core. That was a comparison to the base $1,300 model MacBook with a 1.1 GHz dual-core Intel Core M processor, not the $1,600 model with a 1.2 GHz Core M. But, still — the iPhone 6S outperformed a brand-new $1,300 MacBook, and drew even with a $1,600 model. I called that “astounding”. The writing was clearly on the wall: the future of the Mac seemed destined to move from Intel’s x86 chips to Apple’s own ARM-based chips.",
+      "schemaVersion": 1,
+      "selector": {
+        "end": 1179,
+        "exact": "Just over a decade ago, reviewing the then-new iPhones 6S, I could tell which way the silicon wind was blowing. Year-over-year, the A9 CPU in the iPhone 6S was 1.6× faster than the A8 in the iPhone 6. Impressive. But what really struck me was comparing the 6S’s GeekBench scores to MacBooks. The A9, in 2015, benchmarked comparably to a two-year-old MacBook Air from 2013. More impressively, it outperformed the then-new no-adjective 12-inch MacBook in single-core performance (by a factor of roughly 1.1×) and was only 3 percent slower in multi-core. That was a comparison to the base $1,300 model MacBook with a 1.1 GHz dual-core Intel Core M processor, not the $1,600 model with a 1.2 GHz Core M. But, still — the iPhone 6S outperformed a brand-new $1,300 MacBook, and drew even with a $1,600 model. I called that “astounding”. The writing was clearly on the wall: the future of the Mac seemed destined to move from Intel’s x86 chips to Apple’s own ARM-based chips.",
+        "prefix": "y chose WorkOS over building it themselves.The MacBook NeoTuesday, 10 March 2026",
+        "start": 211,
+        "suffix": "Here we are today, over five years after the debut of Apple’s M-series chips, an",
+        "type": "TextQuoteSelector"
+      },
+      "tags": [],
+      "title": "Daring Fireball: The MacBook Neo",
+      "updatedAt": "2026-05-05T15:33:29.770Z",
+      "url": "https://daringfireball.net/2026/03/the_macbook_neo"
+    }
+  ]
+}
