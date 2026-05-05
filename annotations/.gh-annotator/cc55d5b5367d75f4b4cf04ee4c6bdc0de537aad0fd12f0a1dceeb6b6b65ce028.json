@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "docType": "github-web-annotator-metadata",
   "url": "https://daringfireball.net/2026/03/the_macbook_neo",
-  "updatedAt": "2026-05-05T15:34:20.817Z",
+  "updatedAt": "2026-05-05T15:35:02.986Z",
   "annotations": [
     {
       "client": {
@@ -10,46 +10,22 @@
         "version": "0.1.0"
       },
       "color": "yellow",
-      "createdAt": "2026-05-05T15:34:19.789Z",
-      "id": "mossgyod-b30feec8554b1430",
+      "createdAt": "2026-05-05T15:35:01.081Z",
+      "id": "mosshujd-e3e006581bcb774b",
       "note": "",
-      "quote": "Here we are today, over five years after the debut of Apple’s M-series chips, and we now have the MacBook Neo: a $600 laptop that uses the A18 Pro, literally the same SoC as 2024’s iPhone 16 Pro models. It was clear right from the start of the Apple Silicon transition that Apple’s M-series chips were vastly superior to x86 — better performance-per-watt, better performance period, the innovative (and still unmatched, five years later) unified memory architecture — but the MacBook Neo proves that Apple’s A-series chips are powerful enough for an excellent consumer MacBook.",
+      "quote": "The original iPhone in 2007 was the most amazing device I’ve ever used. It may well wind up being the most amazing device I ever will use. It was ahead of its time in so many ways. But a desktop-class computer, performance-wise, it was not. Two decades is a long time in the computer industry, and nothing proves that more than Apple’s “phone chips” overtaking Intel’s x86 platform in every measurable metric — they’re faster, cooler, smaller, and perhaps even cost less. And they certainly don’t cost more.",
       "schemaVersion": 1,
       "selector": {
-        "end": 1756,
-        "exact": "Here we are today, over five years after the debut of Apple’s M-series chips, and we now have the MacBook Neo: a $600 laptop that uses the A18 Pro, literally the same SoC as 2024’s iPhone 16 Pro models. It was clear right from the start of the Apple Silicon transition that Apple’s M-series chips were vastly superior to x86 — better performance-per-watt, better performance period, the innovative (and still unmatched, five years later) unified memory architecture — but the MacBook Neo proves that Apple’s A-series chips are powerful enough for an excellent consumer MacBook.",
-        "prefix": "c seemed destined to move from Intel’s x86 chips to Apple’s own ARM-based chips.",
-        "start": 1179,
-        "suffix": "I think the truth is that Apple’s A-series chips have been capable of credibly p",
+        "end": 2939,
+        "exact": "The original iPhone in 2007 was the most amazing device I’ve ever used. It may well wind up being the most amazing device I ever will use. It was ahead of its time in so many ways. But a desktop-class computer, performance-wise, it was not. Two decades is a long time in the computer industry, and nothing proves that more than Apple’s “phone chips” overtaking Intel’s x86 platform in every measurable metric — they’re faster, cooler, smaller, and perhaps even cost less. And they certainly don’t cost more.",
+        "prefix": "ay quality, audio quality, or build quality. And certainly not software quality.",
+        "start": 2432,
+        "suffix": "I’ve been testing a citrus-colored $700 MacBook Neo2 — the model with Touch ID a",
         "type": "TextQuoteSelector"
       },
       "tags": [],
       "title": "Daring Fireball: The MacBook Neo",
-      "updatedAt": "2026-05-05T15:34:19.791Z",
-      "url": "https://daringfireball.net/2026/03/the_macbook_neo"
-    },
-    {
-      "client": {
-        "name": "GitHub Web Annotator",
-        "version": "0.1.0"
-      },
-      "color": "yellow",
-      "createdAt": "2026-05-05T15:33:29.768Z",
-      "id": "mossfw2w-a49aad2af8bb6203",
-      "note": "",
-      "quote": "Just over a decade ago, reviewing the then-new iPhones 6S, I could tell which way the silicon wind was blowing. Year-over-year, the A9 CPU in the iPhone 6S was 1.6× faster than the A8 in the iPhone 6. Impressive. But what really struck me was comparing the 6S’s GeekBench scores to MacBooks. The A9, in 2015, benchmarked comparably to a two-year-old MacBook Air from 2013. More impressively, it outperformed the then-new no-adjective 12-inch MacBook in single-core performance (by a factor of roughly 1.1×) and was only 3 percent slower in multi-core. That was a comparison to the base $1,300 model MacBook with a 1.1 GHz dual-core Intel Core M processor, not the $1,600 model with a 1.2 GHz Core M. But, still — the iPhone 6S outperformed a brand-new $1,300 MacBook, and drew even with a $1,600 model. I called that “astounding”. The writing was clearly on the wall: the future of the Mac seemed destined to move from Intel’s x86 chips to Apple’s own ARM-based chips.",
-      "schemaVersion": 1,
-      "selector": {
-        "end": 1179,
-        "exact": "Just over a decade ago, reviewing the then-new iPhones 6S, I could tell which way the silicon wind was blowing. Year-over-year, the A9 CPU in the iPhone 6S was 1.6× faster than the A8 in the iPhone 6. Impressive. But what really struck me was comparing the 6S’s GeekBench scores to MacBooks. The A9, in 2015, benchmarked comparably to a two-year-old MacBook Air from 2013. More impressively, it outperformed the then-new no-adjective 12-inch MacBook in single-core performance (by a factor of roughly 1.1×) and was only 3 percent slower in multi-core. That was a comparison to the base $1,300 model MacBook with a 1.1 GHz dual-core Intel Core M processor, not the $1,600 model with a 1.2 GHz Core M. But, still — the iPhone 6S outperformed a brand-new $1,300 MacBook, and drew even with a $1,600 model. I called that “astounding”. The writing was clearly on the wall: the future of the Mac seemed destined to move from Intel’s x86 chips to Apple’s own ARM-based chips.",
-        "prefix": "y chose WorkOS over building it themselves.The MacBook NeoTuesday, 10 March 2026",
-        "start": 211,
-        "suffix": "Here we are today, over five years after the debut of Apple’s M-series chips, an",
-        "type": "TextQuoteSelector"
-      },
-      "tags": [],
-      "title": "Daring Fireball: The MacBook Neo",
-      "updatedAt": "2026-05-05T15:33:29.770Z",
+      "updatedAt": "2026-05-05T15:35:01.082Z",
       "url": "https://daringfireball.net/2026/03/the_macbook_neo"
     }
   ]
