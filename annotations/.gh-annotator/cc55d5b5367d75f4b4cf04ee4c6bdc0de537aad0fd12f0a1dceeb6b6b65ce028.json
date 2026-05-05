@@ -2,8 +2,32 @@
   "schemaVersion": 1,
   "docType": "github-web-annotator-metadata",
   "url": "https://daringfireball.net/2026/03/the_macbook_neo",
-  "updatedAt": "2026-05-05T15:33:31.458Z",
+  "updatedAt": "2026-05-05T15:34:20.817Z",
   "annotations": [
+    {
+      "client": {
+        "name": "GitHub Web Annotator",
+        "version": "0.1.0"
+      },
+      "color": "yellow",
+      "createdAt": "2026-05-05T15:34:19.789Z",
+      "id": "mossgyod-b30feec8554b1430",
+      "note": "",
+      "quote": "Here we are today, over five years after the debut of Apple’s M-series chips, and we now have the MacBook Neo: a $600 laptop that uses the A18 Pro, literally the same SoC as 2024’s iPhone 16 Pro models. It was clear right from the start of the Apple Silicon transition that Apple’s M-series chips were vastly superior to x86 — better performance-per-watt, better performance period, the innovative (and still unmatched, five years later) unified memory architecture — but the MacBook Neo proves that Apple’s A-series chips are powerful enough for an excellent consumer MacBook.",
+      "schemaVersion": 1,
+      "selector": {
+        "end": 1756,
+        "exact": "Here we are today, over five years after the debut of Apple’s M-series chips, and we now have the MacBook Neo: a $600 laptop that uses the A18 Pro, literally the same SoC as 2024’s iPhone 16 Pro models. It was clear right from the start of the Apple Silicon transition that Apple’s M-series chips were vastly superior to x86 — better performance-per-watt, better performance period, the innovative (and still unmatched, five years later) unified memory architecture — but the MacBook Neo proves that Apple’s A-series chips are powerful enough for an excellent consumer MacBook.",
+        "prefix": "c seemed destined to move from Intel’s x86 chips to Apple’s own ARM-based chips.",
+        "start": 1179,
+        "suffix": "I think the truth is that Apple’s A-series chips have been capable of credibly p",
+        "type": "TextQuoteSelector"
+      },
+      "tags": [],
+      "title": "Daring Fireball: The MacBook Neo",
+      "updatedAt": "2026-05-05T15:34:19.791Z",
+      "url": "https://daringfireball.net/2026/03/the_macbook_neo"
+    },
     {
       "client": {
         "name": "GitHub Web Annotator",
