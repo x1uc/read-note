@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "docType": "github-web-annotator-metadata",
+  "url": "https://tech.meituan.com/2015/05/08/intro-to-logistic-regression.html",
+  "updatedAt": "2026-05-06T06:47:54.234Z",
+  "annotations": [
+    {
+      "client": {
+        "name": "GitHub Web Annotator",
+        "version": "0.1.0"
+      },
+      "color": "yellow",
+      "createdAt": "2026-05-06T06:47:51.562Z",
+      "id": "motp3rpm-98a5ad3e885155df",
+      "note": "",
+      "quote": "选择0.5作为阈值是一个一般的做法，实际应用时特定的情况可以选择不同阈值，如果对正例的判别准确性要求高，可以选择阈值大一些，对正例的召回要求高，则可以选择阈值小一些。",
+      "schemaVersion": 1,
+      "selector": {
+        "end": 1544,
+        "exact": "选择0.5作为阈值是一个一般的做法，实际应用时特定的情况可以选择不同阈值，如果对正例的判别准确性要求高，可以选择阈值大一些，对正例的召回要求高，则可以选择阈值小一些。",
+        "prefix": "∗x这里的 g(h)g(h) 是上边提到的 sigmoid 函数，相应的决策函数为：y∗=1,ifP(y=1|x)>0.5y∗=1,ifP(y=1|x)>0.5",
+        "start": 1461,
+        "suffix": "参数求解模型的数学形式确定后，剩下就是如何去求解模型中的参数。统计学中常用的一种方法是最大似然估计，即找到一组参数，使得在这组参数下，我们的数据的似然度（概率）",
+        "type": "TextQuoteSelector"
+      },
+      "tags": [],
+      "title": "Logistic Regression 模型简介 - 美团技术团队",
+      "updatedAt": "2026-05-06T06:47:51.564Z",
+      "url": "https://tech.meituan.com/2015/05/08/intro-to-logistic-regression.html"
+    }
+  ]
+}
