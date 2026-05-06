@@ -2,8 +2,32 @@
   "schemaVersion": 1,
   "docType": "github-web-annotator-metadata",
   "url": "https://tech.meituan.com/2015/05/08/intro-to-logistic-regression.html",
-  "updatedAt": "2026-05-06T06:47:54.234Z",
+  "updatedAt": "2026-05-06T06:48:32.508Z",
   "annotations": [
+    {
+      "client": {
+        "name": "GitHub Web Annotator",
+        "version": "0.1.0"
+      },
+      "color": "yellow",
+      "createdAt": "2026-05-06T06:48:31.552Z",
+      "id": "motp4mkg-56a3665ec01bdd79",
+      "note": "",
+      "quote": "统计学中常用的一种方法是最大似然估计，即找到一组参数，使得在这组参数下，我们的数据的似然度（概率）越大",
+      "schemaVersion": 1,
+      "selector": {
+        "end": 1626,
+        "exact": "统计学中常用的一种方法是最大似然估计，即找到一组参数，使得在这组参数下，我们的数据的似然度（概率）越大",
+        "prefix": "阈值，如果对正例的判别准确性要求高，可以选择阈值大一些，对正例的召回要求高，则可以选择阈值小一些。参数求解模型的数学形式确定后，剩下就是如何去求解模型中的参数。",
+        "start": 1575,
+        "suffix": "。在逻辑回归模型中，似然度可表示为：L(θ)=P(D|θ)=∏P(y|x;θ)=∏g(θTx)y(1−g(θTx))1−yL(θ)=P(D|θ)=∏P(y|x;",
+        "type": "TextQuoteSelector"
+      },
+      "tags": [],
+      "title": "Logistic Regression 模型简介 - 美团技术团队",
+      "updatedAt": "2026-05-06T06:48:31.553Z",
+      "url": "https://tech.meituan.com/2015/05/08/intro-to-logistic-regression.html"
+    },
     {
       "client": {
         "name": "GitHub Web Annotator",
