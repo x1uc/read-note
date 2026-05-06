@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "docType": "github-web-annotator-metadata",
+  "url": "https://catcoding.me/p/passion/",
+  "updatedAt": "2026-05-06T15:19:26.630Z",
+  "annotations": [
+    {
+      "client": {
+        "name": "GitHub Web Annotator",
+        "version": "0.1.0"
+      },
+      "color": "yellow",
+      "createdAt": "2026-05-06T15:19:21.329Z",
+      "id": "mou7dk36-0747ecea7bca26f3",
+      "note": "",
+      "quote": "更理智的建议是尽自己所能去接受好的教育，接触更广阔的世界，进入更好的平台，多探索，尽量把选择的机会留到年纪更大的阶段，因为这时候人会更笃定，更知道自己要什么。",
+      "schemaVersion": 1,
+      "selector": {
+        "end": 1886,
+        "exact": "更理智的建议是尽自己所能去接受好的教育，接触更广阔的世界，进入更好的平台，多探索，尽量把选择的机会留到年纪更大的阶段，因为这时候人会更笃定，更知道自己要什么。",
+        "prefix": "可能是成为舞蹈家，如果能选择她希望有一份其他工作，而只是把舞蹈当一个业余爱好。家长过早地强制性引导，可能让她们的选择越来越少，最后达到的是一种自己不满意的状态。",
+        "start": 1807,
+        "suffix": "Exploring is an adventure. It is full of uncertainty. It is much more challengin",
+        "type": "TextQuoteSelector"
+      },
+      "tags": [],
+      "title": "Follow Your Passion 是个坏建议？ | CatCoding",
+      "updatedAt": "2026-05-06T15:19:21.331Z",
+      "url": "https://catcoding.me/p/passion/"
+    }
+  ]
+}
