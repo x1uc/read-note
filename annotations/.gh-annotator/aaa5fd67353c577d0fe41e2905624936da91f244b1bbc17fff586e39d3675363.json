@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "docType": "github-web-annotator-metadata",
+  "url": "https://zhuanlan.zhihu.com/p/28408516",
+  "updatedAt": "2026-05-06T07:04:45.806Z",
+  "annotations": [
+    {
+      "client": {
+        "name": "GitHub Web Annotator",
+        "version": "0.1.0"
+      },
+      "color": "yellow",
+      "createdAt": "2026-05-06T07:04:42.686Z",
+      "id": "motppfwe-4130c71dd4796b24",
+      "note": "",
+      "quote": "逻辑回归假设因变量 y 服从伯努利分布，而线性回归假设因变量 y 服从高斯分布。",
+      "schemaVersion": 1,
+      "selector": {
+        "end": 488,
+        "exact": "逻辑回归假设因变量 y 服从伯努利分布，而线性回归假设因变量 y 服从高斯分布。",
+        "prefix": "ogistic Regression）与线性回归（Linear Regression）都是一种广义线性模型（generalized linear model）。",
+        "start": 448,
+        "suffix": " 因此与线性回归有很多相同之处，去除Sigmoid映射函数的话，逻辑回归算法就是一个线性回归。可以说，逻辑回归是以线性回归为理论支持的，但是逻辑回归通过Sigm",
+        "type": "TextQuoteSelector"
+      },
+      "tags": [],
+      "title": "逻辑回归（Logistic Regression）（一） - 知乎",
+      "updatedAt": "2026-05-06T07:04:42.687Z",
+      "url": "https://zhuanlan.zhihu.com/p/28408516"
+    }
+  ]
+}
