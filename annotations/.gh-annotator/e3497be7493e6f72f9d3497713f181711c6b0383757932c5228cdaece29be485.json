@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "docType": "github-web-annotator-metadata",
+  "url": "https://catcoding.me/p/passion/",
+  "updatedAt": "2026-05-06T15:18:14.278Z",
+  "annotations": [
+    {
+      "client": {
+        "name": "GitHub Web Annotator",
+        "version": "0.1.0"
+      },
+      "color": "yellow",
+      "createdAt": "2026-05-06T15:18:09.718Z",
+      "id": "mou7c0ty-04ede599f7e9e396",
+      "note": "",
+      "quote": "因为在人的孩童阶段，他们只是接触了世界的很小一部分，所体现的兴趣和激情往往是模仿。",
+      "schemaVersion": 1,
+      "selector": {
+        "end": 1666,
+        "exact": "因为在人的孩童阶段，他们只是接触了世界的很小一部分，所体现的兴趣和激情往往是模仿。",
+        "prefix": "hildren，Richard Muller 的回答阐述了同样的道理，在小孩这个阶段，简单粗暴地鼓励他们 Follow Your Passion 是不负责任的。",
+        "start": 1625,
+        "suffix": "有的女生从小喜欢舞蹈，但结果成了舞蹈老师，并不是说舞蹈老师不好，如果这个人很喜欢舞蹈老师这个职业当然没问题，但她的最初愿景可能是成为舞蹈家，如果能选择她希望有一",
+        "type": "TextQuoteSelector"
+      },
+      "tags": [],
+      "title": "Follow Your Passion 是个坏建议？ | CatCoding",
+      "updatedAt": "2026-05-06T15:18:09.720Z",
+      "url": "https://catcoding.me/p/passion/"
+    }
+  ]
+}
