@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "docType": "github-web-annotator-metadata",
+  "url": "https://mtlynch.io/eversource-resource-innovations-exposure/",
+  "updatedAt": "2026-05-06T04:44:21.278Z",
+  "annotations": [
+    {
+      "client": {
+        "name": "GitHub Web Annotator",
+        "version": "0.1.0"
+      },
+      "color": "yellow",
+      "createdAt": "2026-05-06T04:44:18.588Z",
+      "id": "motkovto-02e4d8550e07a731",
+      "note": "",
+      "quote": "I live in Massachusetts, and the state government offers a program called Mass Save, where you pay a tax on your energy bill, and the money funds sustainable energy initiatives. For example, if you insulate your home for better energy efficiency, Mass Save will subsidize the cost.",
+      "schemaVersion": 1,
+      "selector": {
+        "end": 999,
+        "exact": "I live in Massachusetts, and the state government offers a program called Mass Save, where you pay a tax on your energy bill, and the money funds sustainable energy initiatives. For example, if you insulate your home for better energy efficiency, Mass Save will subsidize the cost.",
+        "prefix": "lnerability, you can skip to that.Why is this rebate process so complicated? 🔗︎",
+        "start": 718,
+        "suffix": "I recently installed a charger for my electric vehicle (EV) and discovered that ",
+        "type": "TextQuoteSelector"
+      },
+      "tags": [],
+      "title": "Eversource EV Rebate Program Exposed Massachusetts Customer Data · mtlynch.io",
+      "updatedAt": "2026-05-06T04:44:18.590Z",
+      "url": "https://mtlynch.io/eversource-resource-innovations-exposure/"
+    }
+  ]
+}
