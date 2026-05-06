@@ -2,8 +2,32 @@
   "schemaVersion": 1,
   "docType": "github-web-annotator-metadata",
   "url": "https://catcoding.me/p/passion/",
-  "updatedAt": "2026-05-06T15:19:26.630Z",
+  "updatedAt": "2026-05-06T15:23:16.416Z",
   "annotations": [
+    {
+      "client": {
+        "name": "GitHub Web Annotator",
+        "version": "0.1.0"
+      },
+      "color": "yellow",
+      "createdAt": "2026-05-06T15:23:14.525Z",
+      "id": "mou7ik0t-c8a6c92f00dfd750",
+      "note": "",
+      "quote": "A* 算法",
+      "schemaVersion": 1,
+      "selector": {
+        "end": 2605,
+        "exact": "A* 算法",
+        "prefix": "多时候只有一个选择，比如对绝大部分中国高中生来说，高考是必须过的门槛。这种情况下使用 Follow Your Passion 的策略，优先往右下方向走 (比如 ",
+        "start": 2600,
+        "suffix": ") 是不现实的，这可能会让人走更多弯路或者更痛苦。但当一个人有足够多的选择资本，下面这个迷宫随机拆掉了 200 个墙，就比如谷爱凌吧，她的每一步都几乎有多个选择",
+        "type": "TextQuoteSelector"
+      },
+      "tags": [],
+      "title": "Follow Your Passion 是个坏建议？ | CatCoding",
+      "updatedAt": "2026-05-06T15:23:14.527Z",
+      "url": "https://catcoding.me/p/passion/"
+    },
     {
       "client": {
         "name": "GitHub Web Annotator",
