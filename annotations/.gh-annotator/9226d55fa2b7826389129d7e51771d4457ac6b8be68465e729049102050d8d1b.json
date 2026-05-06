@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "docType": "github-web-annotator-metadata",
+  "url": "https://mp.weixin.qq.com/s/-KNPcupBaA470nv6uyZhEQ",
+  "updatedAt": "2026-05-06T05:07:14.390Z",
+  "annotations": [
+    {
+      "client": {
+        "name": "GitHub Web Annotator",
+        "version": "0.1.0"
+      },
+      "color": "yellow",
+      "createdAt": "2026-05-06T05:07:10.781Z",
+      "id": "motliam5-276bd9519ca309e7",
+      "note": "",
+      "quote": "以前很多企业想用 OpenAI 能力，但基础设施、安全、合规、采购和身份系统都已经在 AWS 里。现在 OpenAI 把 GPT-5.5 等模型放到 Amazon Bedrock，同时让 Codex 可以通过 Bedrock provider 使用，对这些企业来说，部署路径会更顺。",
+      "schemaVersion": 1,
+      "selector": {
+        "end": 7926,
+        "exact": "以前很多企业想用 OpenAI 能力，但基础设施、安全、合规、采购和身份系统都已经在 AWS 里。现在 OpenAI 把 GPT-5.5 等模型放到 Amazon Bedrock，同时让 Codex 可以通过 Bedrock provider 使用，对这些企业来说，部署路径会更顺。",
+        "prefix": "dex 以及由 OpenAI 驱动的 Amazon Bedrock Managed Agents 将进入 AWS 体系，当前为 limited preview。",
+        "start": 7785,
+        "suffix": "官方还提到，Codex 每周已有超过 400 万人使用。它不仅用于写代码、解释系统、重构应用、生成测试，也开始被用于研究、分析和文档型工作。一句话总结：Open",
+        "type": "TextQuoteSelector"
+      },
+      "tags": [],
+      "title": "周三上线｜OpenRouter 算了笔 GPT 成本账，海外 DeepSeek 爱好者召唤鲸鱼兄弟；Claude 开始查代码漏洞",
+      "updatedAt": "2026-05-06T05:07:10.783Z",
+      "url": "https://mp.weixin.qq.com/s/-KNPcupBaA470nv6uyZhEQ"
+    }
+  ]
+}
