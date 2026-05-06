@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "docType": "github-web-annotator-metadata",
+  "url": "https://catcoding.me/p/redis-antriez/",
+  "updatedAt": "2026-05-06T15:34:23.775Z",
+  "annotations": [
+    {
+      "client": {
+        "name": "GitHub Web Annotator",
+        "version": "0.1.0"
+      },
+      "color": "yellow",
+      "createdAt": "2026-05-06T15:34:18.104Z",
+      "id": "mou7ws1k-77d6e1bac6b5c2cc",
+      "note": "",
+      "quote": "编程中保持心流，编程中如果有新的想法和问题发现，你可以先记录下来以后再回顾，这叫作 Log driven programming。",
+      "schemaVersion": 1,
+      "selector": {
+        "end": 7082,
+        "exact": "编程中保持心流，编程中如果有新的想法和问题发现，你可以先记录下来以后再回顾，这叫作 Log driven programming。",
+        "prefix": "痛 让我很有共鸣，作为英语非母语的开发者，要融入到英语的环境中需要很多额外努力，而这是技术圈里大多数英文母语者根本不会在乎和谈论到的事。他的博客里还有些好文章：",
+        "start": 7017,
+        "suffix": "For me other people making money out of something I wrote is not something that ",
+        "type": "TextQuoteSelector"
+      },
+      "tags": [],
+      "title": "不想当作家的程序员写不出 Redis | CatCoding",
+      "updatedAt": "2026-05-06T15:34:18.106Z",
+      "url": "https://catcoding.me/p/redis-antriez/"
+    }
+  ]
+}
