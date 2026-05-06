@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "docType": "github-web-annotator-metadata",
+  "url": "https://mtlynch.io/eversource-resource-innovations-exposure/",
+  "updatedAt": "2026-05-06T05:55:46.139Z",
+  "annotations": [
+    {
+      "client": {
+        "name": "GitHub Web Annotator",
+        "version": "0.1.0"
+      },
+      "color": "yellow",
+      "createdAt": "2026-05-06T05:55:43.098Z",
+      "id": "motn8pru-52476b9f86b2d58c",
+      "note": "",
+      "quote": "I’ll include the backstory that led me to the vulnerability, but if you just want to know about the security vulnerability, you can skip to that.",
+      "schemaVersion": 1,
+      "selector": {
+        "end": 672,
+        "exact": "I’ll include the backstory that led me to the vulnerability, but if you just want to know about the security vulnerability, you can skip to that.",
+        "prefix": "ber and vehicle identification number)Home addressesEmail addressesPhone numbers",
+        "start": 527,
+        "suffix": "Why is this rebate process so complicated? 🔗︎I live in Massachusetts, and the s",
+        "type": "TextQuoteSelector"
+      },
+      "tags": [],
+      "title": "Eversource EV Rebate Program Exposed Massachusetts Customer Data · mtlynch.io",
+      "updatedAt": "2026-05-06T05:55:43.101Z",
+      "url": "https://mtlynch.io/eversource-resource-innovations-exposure/"
+    }
+  ]
+}
