@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "docType": "github-web-annotator-metadata",
+  "url": "https://catcoding.me/p/knuth-interview/",
+  "updatedAt": "2026-05-08T01:29:23.563Z",
+  "annotations": [
+    {
+      "client": {
+        "name": "GitHub Web Annotator",
+        "version": "0.1.0"
+      },
+      "color": "yellow",
+      "createdAt": "2026-05-08T01:29:18.819Z",
+      "id": "mow8ltk3-710a86608476b776",
+      "note": "What's this? I remeber I search it many times. Hah",
+      "quote": "P = NP",
+      "schemaVersion": 1,
+      "selector": {
+        "end": 2240,
+        "exact": "P = NP",
+        "prefix": "fication 方面的研究者，他说有一次他收到了高德纳的邮件，咨询他论文里的一些细节问题。高德纳写的《计算机程序设计艺术》可以说是计算机算法领域的百科全书了。",
+        "start": 2234,
+        "suffix": "高德纳倾向于相信 P = NP，但认为即使是成立也可能没有现实意义。额，这段他解释了很多，但是我有的没太听懂细节，以后再学习一下 NP 相关知识。人工智能高德纳",
+        "type": "TextQuoteSelector"
+      },
+      "tags": [],
+      "title": "Lex Fridman 播客 -- 高德纳 | CatCoding",
+      "updatedAt": "2026-05-08T01:29:18.857Z",
+      "url": "https://catcoding.me/p/knuth-interview/"
+    }
+  ]
+}
