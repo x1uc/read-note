@@ -4,7 +4,7 @@ url: 'https://catcoding.me/p/weekly-14/'
 title: '第 14 期，找出人生中真正重要的事；PowerShell 的故事；好玩的个人主页'
 author: 'CatCoding'
 site: 'CatCoding'
-clipped_at: '2026-05-08T01:46:08.968Z'
+clipped_at: '2026-05-08T01:46:09.308Z'
 source: 'github-web-annotator'
 ---
 # 第 14 期，找出人生中真正重要的事；PowerShell 的故事；好玩的个人主页
