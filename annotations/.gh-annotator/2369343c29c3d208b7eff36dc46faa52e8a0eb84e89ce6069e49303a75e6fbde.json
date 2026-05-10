@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "docType": "github-web-annotator-metadata",
+  "url": "https://blog.youxu.info/",
+  "updatedAt": "2026-05-10T10:23:33.491Z",
+  "annotations": [
+    {
+      "client": {
+        "name": "GitHub Web Annotator",
+        "version": "0.1.0"
+      },
+      "color": "yellow",
+      "createdAt": "2026-05-10T10:23:26.698Z",
+      "id": "mozmkf6y-30e9364136c1d890",
+      "note": "",
+      "quote": "所以，焦虑并不能真正帮助我们接近未来。更重要的是，在你当下所能看到的边界之内，做一个对得起自己的选择；至于剩下的部分，就交给时间。",
+      "schemaVersion": 1,
+      "selector": {
+        "end": 6561,
+        "exact": "所以，焦虑并不能真正帮助我们接近未来。更重要的是，在你当下所能看到的边界之内，做一个对得起自己的选择；至于剩下的部分，就交给时间。",
+        "prefix": "哪里。你也许看见了未来，却没有资源；你也许拥有资源，却走向了别的方向；你也许参与了最关键的基础工作，却仍然不知道它会在几年后如何改变世界。未来并不是线性展开的。",
+        "start": 6496,
+        "suffix": "风险分配框架Mar 23, 2022为了操作我的大跃进基金，我自创了不少思维工具。这些思维工具经过了实践的验证后（即能够推导出正确的市场预测），我决定把它们开源",
+        "type": "TextQuoteSelector"
+      },
+      "tags": [],
+      "title": "4G Spaces",
+      "updatedAt": "2026-05-10T10:23:26.700Z",
+      "url": "https://blog.youxu.info/"
+    }
+  ]
+}
