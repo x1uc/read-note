@@ -2,8 +2,32 @@
   "schemaVersion": 1,
   "docType": "github-web-annotator-metadata",
   "url": "https://www.woshipm.com/it/277069.html",
-  "updatedAt": "2026-05-11T14:58:00.959Z",
+  "updatedAt": "2026-05-11T15:03:27.172Z",
   "annotations": [
+    {
+      "client": {
+        "name": "GitHub Web Annotator",
+        "version": "0.1.0"
+      },
+      "color": "yellow",
+      "createdAt": "2026-05-11T15:03:25.845Z",
+      "id": "mp1c0c5x-8469c002c8669421",
+      "note": "",
+      "quote": "王兴：i don’t know and i don’t really care. 一流的事是做事make things happen，二流的是评价别人或别人做的事，三流是评价别人的评价。",
+      "schemaVersion": 1,
+      "selector": {
+        "end": 5236,
+        "exact": "王兴：i don’t know and i don’t really care. 一流的事是做事make things happen，二流的是评价别人或别人做的事，三流是评价别人的评价。",
+        "prefix": "：是否觉得别人看不到的事情你看到了？王兴：我很难讲别人看不到的事情我看到了，相反我担心很多事情我该看到的我还没有看到。《财经》：你认为别人对你最大的误解是什么？",
+        "start": 5143,
+        "suffix": "《财经》：为什么做离商业非常近的赤裸裸的事情反而做得比过去好？王兴：你得相信我总还是在学习成长的。我首先坚定地相信互联网改变一切行业，对不同行业会有不同的展现形",
+        "type": "TextQuoteSelector"
+      },
+      "tags": [],
+      "title": "王兴：多数人为了逃避真正的思考愿意做任何事情 | 人人都是产品经理",
+      "updatedAt": "2026-05-11T15:03:25.847Z",
+      "url": "https://www.woshipm.com/it/277069.html"
+    },
     {
       "client": {
         "name": "GitHub Web Annotator",
