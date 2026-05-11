@@ -2,8 +2,32 @@
   "schemaVersion": 1,
   "docType": "github-web-annotator-metadata",
   "url": "https://www.woshipm.com/it/277069.html",
-  "updatedAt": "2026-05-11T14:57:51.858Z",
+  "updatedAt": "2026-05-11T14:58:00.959Z",
   "annotations": [
+    {
+      "client": {
+        "name": "GitHub Web Annotator",
+        "version": "0.1.0"
+      },
+      "color": "yellow",
+      "createdAt": "2026-05-11T14:57:53.712Z",
+      "id": "mp1bt7w0-7862c6c746dacd01",
+      "note": "",
+      "quote": "王兴：不是所有事情坚持就OK了。人生最重要的事情除了能够坚持到底就是知道应该何时放弃，其实只是绕了一个弯。",
+      "schemaVersion": 1,
+      "selector": {
+        "end": 6034,
+        "exact": "王兴：不是所有事情坚持就OK了。人生最重要的事情除了能够坚持到底就是知道应该何时放弃，其实只是绕了一个弯。",
+        "prefix": "，你怎么看待这个事情。他给了一个非常简洁的回答，他说对他来讲重要的事情不是一定向上或是向下，关键是他在持续向前。《财经》：回头来看，过去几次创业为什么没能坚持？",
+        "start": 5981,
+        "suffix": "多数人一个事情坚持不下去的时候并不是觉得这件事我应该坚持但我坚持不下去了，而是他突然恍然我为什么需要坚持。多数放弃的情况都是这样。《财经》：你觉得现在的你和之前",
+        "type": "TextQuoteSelector"
+      },
+      "tags": [],
+      "title": "王兴：多数人为了逃避真正的思考愿意做任何事情 | 人人都是产品经理",
+      "updatedAt": "2026-05-11T14:57:53.713Z",
+      "url": "https://www.woshipm.com/it/277069.html"
+    },
     {
       "client": {
         "name": "GitHub Web Annotator",
